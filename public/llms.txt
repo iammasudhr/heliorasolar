@@ -1,0 +1,13 @@
+# Heliora Solar
+
+> Thoughtfully designed rooftop solar solutions for homes and businesses across Siliguri, North Bengal and surrounding regions.
+
+## Pages
+- [Solutions](/services/): Residential, commercial, battery-ready and maintenance services.
+- [About](/about/): Brand story, engineering philosophy and service approach.
+- [Solar guide](/solar-guide/): How rooftop solar works and what to assess before installation.
+- [FAQ](/faq/): Direct answers to common rooftop solar questions.
+- [Contact](/contact/): Request a rooftop solar consultation and site assessment.
+
+## Service Overview
+Solar output and system design are tailored to your roof structure, shading profile, equipment selection and electricity usage. Subsidies and grid approvals are verified during on-site assessment in accordance with current MNRE and DISCOM guidelines.
